@@ -1,16 +1,19 @@
-# AI_model_scratch
 # 🧠 AI Model from Scratch
 
-## 📌 Mục tiêu dự án
+## 📌 Project Objectives
 
-Dự án này xây dựng một mô hình học sâu (ví dụ: CNN, MLP) từ đầu. Mục tiêu là để hiểu sâu cách hoạt động của các mô hình học sâu cũng như học máy.
+This project builds deep learning models (e.g., CNN, MLP, Transformer, etc.) from scratch. The goal is to gain a deep understanding of how machine learning and deep learning models operate internally. It is a self-learning project that includes both pure scratch implementations using NumPy and corresponding versions implemented with PyTorch.
 
+## 🚀 Getting Started
 
-## 🚀 Hướng dẫn chạy
-
-### 1. Cài đặt
+### 1. Installation
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/TranThang27/AI_model_scratch.git
+cd AI_model_scratch
 pip install -r requirements.txt
+
+## 📚 Learning Resources
+
+The following articles and tutorials helped build this project:
+
 
