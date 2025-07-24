@@ -11,9 +11,11 @@ This project builds deep learning models (e.g., CNN, MLP, Transformer, etc.) fro
 git clone https://github.com/TranThang27/AI_model_scratch.git
 cd AI_model_scratch
 pip install -r requirements.txt
-
+ ``` 
 ## 📚 Learning Resources
-
-The following articles and tutorials helped build this project:
-
+- [CNN] :
+- [MLP] :
+- [LSTM] :
+- [Transformer] :
+   
 
